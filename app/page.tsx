@@ -1,14 +1,9 @@
-import Head from 'next/head';
-import DataTable from './components/DataTable';
-
+// import Login from "./login/page"; 
+// import Datatable from "./dashboard/page";
 export default function Home() {
   return (
     <div>
-      <Head>
-        <title>Static Data Table</title>
-      </Head>
-      <h1 style={{ textAlign: 'center' }}>MUI Data Grid with Static Data</h1>
-      <DataTable />
+     Homepage
     </div>
   );
 }

@@ -13,7 +13,10 @@
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^6.4.6",
     "@mui/x-data-grid": "^7.27.2",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.2",
     "next": "15.2.1",
+    "next-auth": "^4.24.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
